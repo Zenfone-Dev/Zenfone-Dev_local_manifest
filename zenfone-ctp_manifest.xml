@@ -17,5 +17,6 @@
   <!-- Zenfone-Dev DEVICE PROJECTS -->
   <project name="Zenfone-Dev/android_device_asus_T00F" path="device/asus/T00F" remote="github" />
   <project name="Zenfone-Dev/android_device_asus_T00G" path="device/asus/T00G" remote="github" />
+  <project name="Zenfone-Dev/android_device_asus_T00J" path="device/asus/T00J" remote="github" />
   <project name="Zenfone-Dev/android_device_asus_ctvlp-common" path="device/asus/ctvlp-common" remote="github" />
 </manifest>
