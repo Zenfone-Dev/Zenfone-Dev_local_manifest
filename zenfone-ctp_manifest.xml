@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- REMOVE CM-ZENFONE2 PROJECTS -->
+  <remove-project name="CyanogenMod/android_hardware_intel_common_libmix" path="hardware/intel/common/libmix" />
+  <remove-project name="CyanogenMod/android_hardware_intel_common_libwsbm" path="hardware/intel/common/libwsbm" />
+  <remove-project name="CyanogenMod/android_hardware_intel_common_libva" path="hardware/intel/common/libva" />
+  <remove-project name="CyanogenMod/android_hardware_intel_common_omx-components" path="hardware/intel/common/omx-components" />
+  <remove-project name="CyanogenMod/android_hardware_intel_img_psb_video" path="hardware/intel/img/psb_video" />
+
+  <!-- ADD CTP PROJECTS -->
+  <project name="Zenfone-Dev/android_hardware_intel_common_libmix" path="hardware/intel/common/libmix" remote="github" />
+  <project name="Zenfone-Dev/android_hardware_intel_common_libwsbm" path="hardware/intel/common/libwsbm" remote="github" />
+  <project name="Zenfone-Dev/android_hardware_intel_common_libva" path="hardware/intel/common/libva" remote="github" />
+  <project name="Zenfone-Dev/android_hardware_intel_common_omx-components" path="hardware/intel/common/omx-components" remote="github" />
+  <project name="Zenfone-Dev/android_hardware_intel_img_psb_video" path="hardware/intel/img/psb_video" remote="github" />
+</manifest>

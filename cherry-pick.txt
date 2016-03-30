@@ -1,0 +1,4 @@
+# Current List of cherry-pick needed for Zenfone-dev project
+# repopick in this order
+
+repopick -t zenfone_old   // Fixes issue with target arch of bionic , patch ffmpeg x86 , cm build , cm ota script
