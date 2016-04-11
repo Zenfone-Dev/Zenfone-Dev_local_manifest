@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- REMOVE CM-ZENFONE2 PROJECTS -->
-  <remove-project name="CyanogenMod/android_hardware_intel_common_libmix" path="hardware/intel/common/libmix" />
   <remove-project name="CyanogenMod/android_hardware_intel_common_libva" path="hardware/intel/common/libva" />
 
   <!-- ADD CTP PROJECTS -->
-  <project name="Zenfone-Dev/android_hardware_intel_common_libmix" path="hardware/intel/common/libmix" remote="github" />
   <project name="Zenfone-Dev/android_hardware_intel_common_libva" path="hardware/intel/common/libva" remote="github" />
 
   <!-- Zenfone-Dev DEVICE PROJECTS -->
