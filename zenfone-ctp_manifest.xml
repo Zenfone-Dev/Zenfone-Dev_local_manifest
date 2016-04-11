@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <!-- REMOVE CM-ZENFONE2 PROJECTS -->
-  <remove-project name="CyanogenMod/android_hardware_intel_common_libva" path="hardware/intel/common/libva" />
-
-  <!-- ADD CTP PROJECTS -->
-  <project name="Zenfone-Dev/android_hardware_intel_common_libva" path="hardware/intel/common/libva" remote="github" />
-
   <!-- Zenfone-Dev DEVICE PROJECTS -->
   <project name="Zenfone-Dev/android_device_asus_T00F" path="device/asus/T00F" remote="github" />
   <project name="Zenfone-Dev/android_device_asus_T00G" path="device/asus/T00G" remote="github" />
