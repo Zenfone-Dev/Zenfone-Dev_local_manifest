@@ -1,0 +1,5 @@
+# Current List of cherry-pick needed for Zenfone-dev project
+# repopick in this order
+
+repopick -t ctp-bringup -f   // Fixes issue with media video interested
+
