@@ -7,4 +7,5 @@
   <project name="Zenfone-Dev/android_device_asus_T00I" path="device/asus/T00I" remote="github" />
   <project name="Zenfone-Dev/android_device_asus_Z00D" path="device/asus/Z00D" remote="github" />
   <project name="Zenfone-Dev/android_device_asus_ctvlp-common" path="device/asus/ctvlp-common" remote="github" />
+  <project name="Zenfone-Dev/proprietary_vendor_asus" path="vendor/asus" remote="github" />
 </manifest>
